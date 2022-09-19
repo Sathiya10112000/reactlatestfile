@@ -1,0 +1,26 @@
+.crudcreateh1{
+    text-align: center;
+   } 
+
+   .label{
+    font-weight: bold;
+     padding: 20px;
+     margin-top: 20px;
+     margin-left: 35%;
+     color:black;
+
+     font-family: 'Times New Roman', Times, serif;
+     font-size: larger;
+     align-items: center;
+     margin-left: 40%;
+
+   }
+   .textfield{
+
+     width: 300px;
+      height: 50px;
+     margin-left: 30%;
+      border-color: black;
+      outline-width: 20%;
+      background-color: #fff;
+   }
